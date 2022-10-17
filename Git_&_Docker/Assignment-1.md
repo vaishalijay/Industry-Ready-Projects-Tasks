@@ -1,6 +1,11 @@
 # Git and Github 
 
 ### Task 1
+![Screenshot 2022-10-17 at 18 06 07](https://user-images.githubusercontent.com/75666129/196247112-15435624-85f9-4ee4-8775-9f9a97a8f204.png)
+
+
+
+
 - Demonstrate minimum 15 basic Git command with explanation and screenshot.
 ```git
 Example 
