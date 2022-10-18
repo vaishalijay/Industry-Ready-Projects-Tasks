@@ -26,6 +26,10 @@ Command is used to list all the docker images available locally in your system.
 
 ![Screenshot 2022-10-18 at 19 12 27](https://user-images.githubusercontent.com/75666129/196470964-5db67293-ac35-46fd-8fe8-16e6e9473cba.png)
 
+4. ps command - used to list all containers
+
+![Screenshot 2022-10-18 at 20 51 58](https://user-images.githubusercontent.com/75666129/196495167-bafe5112-1ccf-4b69-a666-7d4875f59c7c.png)
+
 
 ### Assignment 2:
 
