@@ -19,6 +19,7 @@ Command is used to list all the docker images available locally in your system.
 ![Screenshot 2022-10-18 at 19 06 43](https://user-images.githubusercontent.com/75666129/196470082-77926b15-44e1-4424-889d-76c2c0b4fde4.png)
 
 2. Pull docker command
+
 ![Screenshot 2022-10-18 at 19 07 01](https://user-images.githubusercontent.com/75666129/196470165-bc99917e-aab2-4229-be9a-47dfbdf3167f.png)
 
 3. docker images to check if images are there
