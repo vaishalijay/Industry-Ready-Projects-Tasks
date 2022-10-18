@@ -37,6 +37,9 @@ Command is used to list all the docker images available locally in your system.
 
 Run Hello World Docker Image Locally.
 
+![Screenshot 2022-10-18 at 20 54 25](https://user-images.githubusercontent.com/75666129/196495808-c9124a13-0f13-4340-bdb9-70da92d6936c.png)
+
+
 
 ### Assignment 3:
 Create a hello world fastapi application.
